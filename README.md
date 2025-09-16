@@ -19,7 +19,7 @@ Designed with a clean dark UI, smooth interactivity, and optimized gameplay for 
 (Add a screenshot or GIF of your game here later!)
 
 ## 🌐 Live Demo
-👉 [Play Tic-Tac-Toe on GitHub Pages](https://your-username.github.io/tic-tac-toe/)
+👉 [Play Tic-Tac-Toe on GitHub Pages](https://shah0x.github.io/tic-tac-toe/)
 
 ---
 Made with ❤️ by **[Your Name]**
